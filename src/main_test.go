@@ -1,8 +1,8 @@
 package src
 
 import (
+	"github.com/Z-oney/FirstGoProject/apple"
 	"testing"
-	"zoney.cn/src/apple"
 )
 
 func BenchmarkTrieB(c *testing.B) {
