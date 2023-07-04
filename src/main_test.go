@@ -1,7 +1,7 @@
 package src
 
 import (
-	"github.com/Z-oney/FirstGoProject/apple"
+	"github.com/Z-oney/FirstGoProject/src/apple"
 	"testing"
 )
 
