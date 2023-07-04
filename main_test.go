@@ -1,4 +1,4 @@
-package src
+package FirstGoProject
 
 import (
 	"github.com/Z-oney/FirstGoProject/src/apple"
